@@ -1,0 +1,23 @@
+body{
+    background-color: black;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+   color: white;
+   transition: .3s;
+}
+h1:hover{
+    font-family: 'Pacifico', cursive;
+   color: rgb(196, 18, 18);
+   transition: .3s;
+}
+
+p{
+    background: -webkit-linear-gradient(rgb(255, 113, 88), rgb(39, 181, 0));
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+.product-img{
+    width: 150px;
+    height: 150px;
+}
